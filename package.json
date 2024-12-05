@@ -1,0 +1,25 @@
+{
+  "name": "aoc2024",
+  "version": "1.0.0",
+  "description": "Advent of code 2024",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/1/index.ts",
+    "test": "echo \\\"Error: no test specified\\\" && exit src/1"
+  },
+  "keywords": [
+    "aoc",
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "Jan Nyholm",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
